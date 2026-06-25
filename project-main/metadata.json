@@ -1,0 +1,6 @@
+{
+  "name": "Personal Todo Application",
+  "description": "A modern, responsive full-stack Personal Todo Application with task management, filters, search, priority categories, and performance charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
